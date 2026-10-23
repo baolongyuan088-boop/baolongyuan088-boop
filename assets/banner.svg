@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="宝龙 Baolong，用 AI 把想法做成能用的产品">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#193f45"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<circle cx="1080" cy="70" r="150" fill="none" stroke="#53ddba" stroke-opacity=".15" stroke-width="36"/>
+<circle cx="1080" cy="70" r="92" fill="none" stroke="#53ddba" stroke-opacity=".2"/>
+<path d="M850 220h65l26-60 34 90 29-50h95" fill="none" stroke="#6ee7c5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="65" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#7de8cd">BUILD · LEARN · ITERATE</text>
+<text x="60" y="145" font-family="Arial,PingFang SC,Microsoft YaHei,sans-serif" font-size="54" font-weight="700" fill="#ffffff">宝龙 / Baolong</text>
+<text x="64" y="202" font-family="Arial,PingFang SC,Microsoft YaHei,sans-serif" font-size="26" fill="#d5e5ee">用 AI，把想法做成能用的产品。</text>
+<text x="64" y="252" font-family="Arial,sans-serif" font-size="15" letter-spacing="2" fill="#9fb9c8">AI APPLICATIONS  /  FITNESS &amp; NUTRITION  /  PRODUCT EXPLORATION</text>
+</svg>
