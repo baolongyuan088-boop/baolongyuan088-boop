@@ -8,16 +8,19 @@
 
 你好，我是 **宝龙（Baolong）**。我正在学习并实践 AI 应用开发：从一个具体需求出发，借助 AI 编程工具与开源项目做原型，再通过实际试用持续改进。
 
-目前主要探索 **健身、饮食记录与 AI 陪伴**。希望工具既能帮人完成事情，也能让使用过程轻松一点。
+目前主要探索 **AI 智能体、可穿戴交互、小游戏，以及健身饮食与 AI 陪伴**。希望工具既能帮人完成事情，也能让使用过程轻松一点。
 
 ## 正在做的项目
 
 | 项目 | 想解决的问题 | 我的改动与当前阶段 |
 | :--- | :--- | :--- |
+| **Codex 手表 · 掌上审批** | 让 Codex 任务审批从电脑延伸到手机与手表 | Limbo Bridge 本地原型，已验证 Mac 审批闭环；提供 iPhone / Watch 客户端。远程连接与手表真机体验仍在开发，代码暂未公开。 |
+| **[Fish Up · 大鱼吃小鱼](https://fish-up-ocean-heroes.baolongyuan088.chatgpt.site/)** | 把游戏想法做成可以直接打开试玩的作品 | 自己制作的手机网页小游戏，持续打磨操作、关卡与游戏体验。点击项目名试玩。 |
+| **经历银行 Agent** | 把零散经历积累成可检索、可复用的职业资产 | 围绕经历与岗位要求进行检索和对话，生成经历卡草稿，确认后存入；支持文档提取与图片文字识别接口。代码暂未公开。 |
 | **[MyPT · AI 健身饮食管家](https://github.com/baolongyuan088-boop/MyPT)** | 吃什么、怎么练，以及状态不好时如何获得合适的支持 | 中文界面、模型接口接入、对话语气与情绪支持、邀请码内测。已部署页面，完整内测流程仍在完善。 |
 | **[FitPilot · 轻燃](https://github.com/baolongyuan088-boop/FitPilot)** | 把训练记录、进度和饮食管理放在一起 | 中文默认配置、轻燃品牌、饮食记录与统计、按食物份量换算营养、AI 连接流程。当前可本地运行，线上部署筹备中。 |
 
-> 两个项目都基于开源作品继续开发。MyPT 源自 [system-conf/MyPT](https://github.com/system-conf/MyPT)，FitPilot 源自 [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)。保留原作者署名与许可证；第三方图片、动画等素材的授权单独处理。
+> 其中两个健身项目基于开源作品继续开发。MyPT 源自 [system-conf/MyPT](https://github.com/system-conf/MyPT)，FitPilot 源自 [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)。保留原作者署名与许可证；第三方图片、动画等素材的授权单独处理。
 
 ## 我关心什么
 
